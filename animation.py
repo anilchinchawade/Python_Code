@@ -33,5 +33,6 @@ ani = animation.ArtistAnimation(fig, ims, interval=50, blit=True,
                                 repeat_delay=1000)
 
 # ani.save('dynamic_images.mp4')
+print("This is an example for animation code")
 
 plt.show()
